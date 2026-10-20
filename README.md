@@ -81,19 +81,3 @@ If you want to personalize the portfolio:
 2. Replace or update files in the `images/` folder to match your projects.
 3. Modify colors, typography, and layout in `style.css`.
 4. Adjust interactions and dynamic behavior in `script.js`.
-
-### Profile photo
-
-The README notes that the site expects a profile image named `profile.jpg` in the same folder as the page if you want to replace the placeholder. If you use a different file name, update the `src` attribute in `index.html`.
-
-## Notes
-
-This is a student portfolio and is intended as a personal showcase rather than a production application. It is best suited for learning, networking, and career opportunities.
-
-## License
-
-No explicit license file is included in this repository. If you plan to publish or share this project publicly, it is recommended to add a license that matches your intended usage.
-
-## Contact
-
-For collaborations, internships, or feedback, use the contact details included in the portfolio or reach out via the GitHub and LinkedIn links above.
